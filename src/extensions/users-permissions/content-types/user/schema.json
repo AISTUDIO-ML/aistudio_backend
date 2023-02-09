@@ -65,6 +65,27 @@
     },
     "phone_no": {
       "type": "integer"
+    },
+    "company_name": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "billing_address": {
+      "type": "string"
+    },
+    "card_holder_name": {
+      "type": "string"
+    },
+    "card_number": {
+      "type": "integer"
+    },
+    "expiry_date": {
+      "type": "date"
+    },
+    "cvc": {
+      "type": "integer"
     }
   }
 }
